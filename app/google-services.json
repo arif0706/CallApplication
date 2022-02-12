@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920740422459",
+    "project_id": "call-application-dc919",
+    "storage_bucket": "call-application-dc919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920740422459:android:1ef500ace6c6217007cd1e",
+        "android_client_info": {
+          "package_name": "com.example.callapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920740422459-9fvg86alpca936rit0t4sqintqrmgt9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqekw2lUDHFvT3oDo3LgY5YXC7HuRNXY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920740422459-9fvg86alpca936rit0t4sqintqrmgt9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
